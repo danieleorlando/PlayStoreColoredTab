@@ -1,6 +1,9 @@
 # PlayStoreColoredTab
 Play Store Colored Tab
+<p>
+  <img align="left" width="350" src="https://github.com/danieleorlando/PlayStoreColoredTab/blob/master/art/playstore.gif">
+</p>
 
-<img align="left" width="350" src="https://github.com/danieleorlando/PlayStoreColoredTab/blob/master/art/playstore.gif">
-<br><br>
-<img align="left" width="350" src="https://github.com/danieleorlando/PlayStoreColoredTab/blob/master/art/coloredtab.gif">
+<p>
+  <img align="left" width="350" src="https://github.com/danieleorlando/PlayStoreColoredTab/blob/master/art/coloredtab.gif">
+</p>
