@@ -1,6 +1,6 @@
 # PlayStoreColoredTab
 Play Store Colored Tab
 
-![](/art/playstore.gif)
+![](/art/playstore.gif | width=350)
 
-![](/art/coloredtab.gif)
+![](/art/coloredtab.gif | width=350)
